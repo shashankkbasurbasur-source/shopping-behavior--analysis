@@ -1,1 +1,0 @@
-SECRET_KEY="ZwrGm7sgiAAvxKj+kFmvnQa4oqKqsgdd3x9HUkYaNwSlzfc06PJ21N3i"
